@@ -1,0 +1,33 @@
+PODS:
+  - OpenVPNAdapter (0.7.0):
+    - OpenVPNAdapter/ASIO (= 0.7.0)
+    - OpenVPNAdapter/LZ4 (= 0.7.0)
+    - OpenVPNAdapter/mbedTLS (= 0.7.0)
+    - OpenVPNAdapter/OpenVPN3 (= 0.7.0)
+    - OpenVPNAdapter/OpenVPNAdapter (= 0.7.0)
+    - OpenVPNAdapter/OpenVPNClient (= 0.7.0)
+  - OpenVPNAdapter/ASIO (0.7.0)
+  - OpenVPNAdapter/LZ4 (0.7.0)
+  - OpenVPNAdapter/mbedTLS (0.7.0)
+  - OpenVPNAdapter/OpenVPN3 (0.7.0)
+  - OpenVPNAdapter/OpenVPNAdapter (0.7.0)
+  - OpenVPNAdapter/OpenVPNClient (0.7.0)
+
+DEPENDENCIES:
+  - OpenVPNAdapter (from `https://github.com/deneraraujo/OpenVPNAdapter.git`)
+
+EXTERNAL SOURCES:
+  OpenVPNAdapter:
+    :git: https://github.com/deneraraujo/OpenVPNAdapter.git
+
+CHECKOUT OPTIONS:
+  OpenVPNAdapter:
+    :commit: f4db4b0b160de0f2803de06ec95f8e703d9b0db5
+    :git: https://github.com/deneraraujo/OpenVPNAdapter.git
+
+SPEC CHECKSUMS:
+  OpenVPNAdapter: 173fcc4c11a3a8a83ae8d250c079cdc5b9fb8ff1
+
+PODFILE CHECKSUM: c8d25b6c0b920c1e5f7edec96bc0b2d72197e619
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module Pods_OpenVpnDemo {
+  umbrella header "Pods-OpenVpnDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
